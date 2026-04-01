@@ -1,4 +1,4 @@
-Jackson-POJOAPIAutomationRestAssured
+API-Serialization-Deserialization-Framework-Java
 
 A compact learning and practice repository demonstrating how to use Jackson, POJO Models, and Rest Assured together for API Automation.
 It includes end-to-end examples of serialization, deserialization, nested JSON handling, JSON → POJO conversion, and POJO → JSON payload creation.
